@@ -1,4 +1,4 @@
-print("\nSelamat Datang di Tugas Pratikum Algoritma 1") #print selamat datang
+print("\nSelamat Datang di Program 1") #print selamat datang
 
 #user memilih angka inputan untuk memilih program mana yang dijalankan
 masukan = int(input("\n1. Mengubah Suhu ke Farenheit/ Reamur/ Kelvin \n2. Menghitung Body Mass Index \n3. Permainan Batu Kertas Gunting \n4. Exit \nSilahkan Pilih Pilihan Anda: "))
